@@ -1,4 +1,4 @@
-print('hello world, i made a mistake')
+print('hello world')
 input(
     'druk op enter om door te gaan.'
 )
